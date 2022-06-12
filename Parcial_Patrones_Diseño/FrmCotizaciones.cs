@@ -16,5 +16,10 @@ namespace Parcial_Patrones_Diseño
         {
             InitializeComponent();
         }
+
+        private void FrmCotizaciones_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -38,6 +38,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmCotizaciones";
             this.Text = "FrmCotizaciones";
+            this.Load += new System.EventHandler(this.FrmCotizaciones_Load);
             this.ResumeLayout(false);
 
         }
